@@ -1,4 +1,3 @@
-
 package com.webcont.lumen_project_1.model;
 
 import jakarta.persistence.*;
